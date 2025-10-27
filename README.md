@@ -105,8 +105,3 @@ To deploy this project, follow these steps:
 
 ---
 
-## 📧 Contact
-For any queries or improvements, feel free to reach out! 
-
-💡 Contributions are welcome! If you have suggestions, submit a PR. 🚀
-
